@@ -682,7 +682,7 @@ __metadata:
     "@aws-crypto/util": "npm:^5.2.0"
     "@aws-sdk/types": "npm:^3.222.0"
     tslib: "npm:^2.6.2"
-  checksum: 10c0/6c48701f8336341bb104dfde3d0050c89c288051f6b5e9bdfeb8091cf3ffc86efcd5c9e6ff2a4a134406b019c07aca9db608128f8d9267c952578a3108db9fd1
+  checksum: rCGrs8FeEWL3kvz7/7V+//wX6iQL05HdJM1hcENwGa/v79ZjIpGOCctrFbGSxEdFQmLQEdW83G5tT9gkRfdpmRwB1Mcj34x5m3Tv
   languageName: node
   linkType: hard
 
